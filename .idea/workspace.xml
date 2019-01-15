@@ -50,22 +50,23 @@
     <session id="-577369280">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="729" />
+          <entry key="py" value="1331" />
           <entry key="txt" value="51" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="51" />
-          <entry key="Python" value="729" />
+          <entry key="Python" value="1331" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -82,33 +83,33 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Source/Categorical_Decision_Tree.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="389">
-              <caret line="37" column="59" selection-start-line="37" selection-start-column="59" selection-end-line="37" selection-end-column="59" />
+            <state relative-caret-position="297">
+              <caret line="41" column="21" lean-forward="true" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
-                <marker date="1547559358699" expanded="true" signature="303:1439" ph="..." />
-                <marker date="1547559358699" expanded="true" signature="1437:1439" ph="..." />
-                <marker date="1547559358699" expanded="true" signature="1476:1481" ph="..." />
-                <marker date="1547559358699" expanded="true" signature="2074:2079" ph="..." />
-                <marker date="1547559358699" expanded="true" signature="2074:2417" ph="..." />
-                <marker date="1547559358699" expanded="true" signature="2445:2450" ph="..." />
+                <marker date="1547565420339" expanded="true" signature="483:1950" ph="..." />
+                <marker date="1547565420339" expanded="true" signature="1947:1950" ph="..." />
+                <marker date="1547565420339" expanded="true" signature="1987:1992" ph="..." />
+                <marker date="1547565420339" expanded="true" signature="2584:2589" ph="..." />
+                <marker date="1547565420339" expanded="true" signature="2584:2930" ph="..." />
+                <marker date="1547565420339" expanded="true" signature="2958:2963" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Test/test_categorical_decision_tree.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="98">
-              <caret line="26" column="80" selection-start-line="26" selection-start-column="80" selection-end-line="26" selection-end-column="80" />
+            <state relative-caret-position="184">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
-                <marker date="1547559366189" expanded="true" signature="630:1000" ph="..." />
-                <marker date="1547559366189" expanded="true" signature="846:1000" ph="..." />
+                <marker date="1547561835807" expanded="true" signature="638:1018" ph="..." />
+                <marker date="1547561835807" expanded="true" signature="864:1018" ph="..." />
               </folding>
             </state>
           </provider>
@@ -128,6 +129,7 @@
       <find>prin</find>
       <find>unique</find>
       <find>==</find>
+      <find>homo</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -145,8 +147,8 @@
         <option value="$PROJECT_DIR$/test_categorical_decision_tree.py" />
         <option value="$PROJECT_DIR$/Categorical_Decision_Tree.py" />
         <option value="$PROJECT_DIR$/Source/Performance_Parameters.py" />
-        <option value="$PROJECT_DIR$/Source/Categorical_Decision_Tree.py" />
         <option value="$PROJECT_DIR$/Test/test_categorical_decision_tree.py" />
+        <option value="$PROJECT_DIR$/Source/Categorical_Decision_Tree.py" />
       </list>
     </option>
   </component>
@@ -292,12 +294,12 @@
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.05479452" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10642782" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32952183" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.34095633" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.36278588" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -359,37 +361,33 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/test_categorical_decision_tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
-            <marker date="1547430333501" expanded="true" signature="104:109" ph="..." />
+            <marker date="1547561835807" expanded="true" signature="638:1018" ph="..." />
+            <marker date="1547561835807" expanded="true" signature="864:1018" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Source/Categorical_Decision_Tree.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="389">
-          <caret line="37" column="59" selection-start-line="37" selection-start-column="59" selection-end-line="37" selection-end-column="59" />
+        <state relative-caret-position="297">
+          <caret line="41" column="21" lean-forward="true" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
-            <marker date="1547559358699" expanded="true" signature="303:1439" ph="..." />
-            <marker date="1547559358699" expanded="true" signature="1437:1439" ph="..." />
-            <marker date="1547559358699" expanded="true" signature="1476:1481" ph="..." />
-            <marker date="1547559358699" expanded="true" signature="2074:2079" ph="..." />
-            <marker date="1547559358699" expanded="true" signature="2074:2417" ph="..." />
-            <marker date="1547559358699" expanded="true" signature="2445:2450" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test/test_categorical_decision_tree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="98">
-          <caret line="26" column="80" selection-start-line="26" selection-start-column="80" selection-end-line="26" selection-end-column="80" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-            <marker date="1547559366189" expanded="true" signature="630:1000" ph="..." />
-            <marker date="1547559366189" expanded="true" signature="846:1000" ph="..." />
+            <marker date="1547565420339" expanded="true" signature="483:1950" ph="..." />
+            <marker date="1547565420339" expanded="true" signature="1947:1950" ph="..." />
+            <marker date="1547565420339" expanded="true" signature="1987:1992" ph="..." />
+            <marker date="1547565420339" expanded="true" signature="2584:2589" ph="..." />
+            <marker date="1547565420339" expanded="true" signature="2584:2930" ph="..." />
+            <marker date="1547565420339" expanded="true" signature="2958:2963" ph="..." />
           </folding>
         </state>
       </provider>
