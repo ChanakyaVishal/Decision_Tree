@@ -23,8 +23,8 @@ def test_info_of_attribute():
 
 
 def test_build_decision_tree():
-    df = pd.DataFrame({'A': [0, 1, 1, 1, 0], 'B': [1, 1, 1, 1, 0], 'left': [1, 0, 1, 1, 0]})
-    output = dt.build_decision_tree(df, 'root')
+    df = pd.DataFrame({'A': [0, 1, 2, 1, 0], 'B': [1, 1, 1, 1, 0], 'left': [1, 0, 1, 1, 0]})
+    output = dt.build_decision_tree(df)
     print(output)
 
 
